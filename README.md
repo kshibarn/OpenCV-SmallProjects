@@ -5,3 +5,8 @@ Well Virtual Paint is for detecting colors and using coloured marker for random 
 
 ## Project 2:- Document Scanner
 Doc Scanner is just a small openCV project for scanning our document in which ever place it is been placed using our webcam and with right coordinates, some preProcessing and showing all preProcessed and our main document using stack images function in our python file at one place.
+
+## Project 3:- Number Plate Detector
+Number Plate Detector helps to detect number plates in cars in real time here we have used a sample video of 3 cars to detect number plates of 3 different cars. "haarcascade_russian_plate_number.xml" helps to detect russian plate numbers then we can save each number plate in a seperate directory "Scanned" in Resources folder.
+
+Haarcascades Files can be found [haarcascades](https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_russian_plate_number.xml)
