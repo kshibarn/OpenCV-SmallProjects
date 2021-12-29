@@ -10,4 +10,5 @@ Doc Scanner is just a small openCV project for scanning our document in which ev
 Number Plate Detector helps to detect number plates in cars in real time here we have used a sample video of 3 cars to detect number plates of 3 different cars. "haarcascade_russian_plate_number.xml" helps to detect russian plate numbers then we can save each number plate in a seperate directory "Scanned" in Resources folder.
 
 Haarcascades Files can be found [haarcascades](https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_russian_plate_number.xml)
+
 Youtube Video link [Watch](https://www.youtube.com/watch?v=WQeoO7MI0Bs&t=6363s&ab_channel=Murtaza%27sWorkshop-RoboticsandAI)
