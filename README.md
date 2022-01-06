@@ -18,3 +18,6 @@ YOLO Files can be found [yolov3.cfg](https://github.com/pjreddie/darknet/blob/ma
 Haarcascades Files can be found [haarcascades](https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_russian_plate_number.xml)
 
 Youtube Video link [Watch](https://www.youtube.com/watch?v=WQeoO7MI0Bs&t=6363s&ab_channel=Murtaza%27sWorkshop-RoboticsandAI)
+
+
+OpenCV-SmallProjects is created by following [Learn OpenCV in 3 hours video](https://www.computervision.zone/courses/learn-opencv-in-3-hours/) & [Object Detection YOLO](https://www.computervision.zone/courses/object-detection-yolo/).
